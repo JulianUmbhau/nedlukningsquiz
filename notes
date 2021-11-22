@@ -1,0 +1,26 @@
+Nedlukningsquiz
+Infrastruktur
+- Hjemmeside
+-- udseende
+-- input requirements
+- Serviceplan
+- Storage
+- Dashboard service efter at have besvaret "Sådan stemte andre"
+
+Features
+- Input
+-- input muligheder
+-- input storage
+- Storage af input
+-- database storage?
+-- anden storage?
+-- find tutorial
+
+Mongodb with dash
+https://www.youtube.com/watch?v=2pWwSm6X24o&ab_channel=CharmingData
+
+
+
+
+test project:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-flask-with-mongodb-and-docker
