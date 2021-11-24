@@ -19,7 +19,7 @@ mydb = client["animals"]
 collection = mydb.shelterA
 
 # %%
-app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = dash.Dash(suppress_callback_exceptions=True, external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"])
 
 app.layout = html.Div([
 
